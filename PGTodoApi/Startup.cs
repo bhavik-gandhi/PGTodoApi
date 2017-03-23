@@ -34,7 +34,8 @@ namespace PGTodoApi
             services.AddMvc();
 
             services.AddDbContext<TodoContext>(opt => opt.UseNpgsql(Configuration.GetConnectionString("TodoContext")));
-            
+
+            services.AddSingleton<ITodoRepository, TodoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

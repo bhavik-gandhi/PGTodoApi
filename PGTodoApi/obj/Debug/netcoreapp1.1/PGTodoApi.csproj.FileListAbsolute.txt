@@ -16,3 +16,12 @@ D:\Samples\Source\Repo\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.csp
 D:\Samples\Source\Repo\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.AssemblyInfo.cs
 D:\Samples\Source\Repo\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.dll
 D:\Samples\Source\Repo\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.pdb
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\bin\Debug\netcoreapp1.1\PGTodoApi.deps.json
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\bin\Debug\netcoreapp1.1\PGTodoApi.runtimeconfig.json
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\bin\Debug\netcoreapp1.1\PGTodoApi.runtimeconfig.dev.json
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\bin\Debug\netcoreapp1.1\PGTodoApi.dll
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\bin\Debug\netcoreapp1.1\PGTodoApi.pdb
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.csprojResolveAssemblyReference.cache
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.AssemblyInfo.cs
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.dll
+c:\Samples\Source\Repos\PGTodoApi\PGTodoApi\obj\Debug\netcoreapp1.1\PGTodoApi.pdb

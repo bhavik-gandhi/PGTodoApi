@@ -65,6 +65,7 @@ namespace PGTodoApi.Controllers
 
             todo.IsComplete = item.IsComplete;
             todo.Name = item.Name;
+            todo.CompletionDate = item.CompletionDate;
 
             _todoRepository.Update(todo);
             return new NoContentResult();
